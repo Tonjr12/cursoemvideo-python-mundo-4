@@ -1,5 +1,11 @@
 # 🐍 Python 3 - Mundo 4: Programação Orientada a Objetos (POO)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Curso%20em%20V%C3%ADdeo-Gustavo%20Guanabara-red" alt="Curso em Vídeo">
+  <img src="https://img.shields.io/badge/Status-Em%20Andamento-yellow" alt="Status Em Andamento">
+</p>
+
 Repositório com todos os exercícios, desafios e códigos de aula desenvolvidos durante o **Mundo 4** do curso de Python 3 do [Curso em Vídeo](https://www.cursoemvideo.com/), ministrado pelo professor **Gustavo Guanabara**.
 
 ---
@@ -33,6 +39,8 @@ cursoemvideo-python-mundo-4/
 
 ## 🚀 Como Executar os Códigos
 
+Para executar qualquer um dos exercícios ou scripts de aula:
+
 ```bash
 # Clone o repositório
 git clone https://github.com/Tonjr12/cursoemvideo-python-mundo-4.git
@@ -45,4 +53,4 @@ python exercicios/EX001/ex001.py
 ```
 
 ---
-Desenvolvido por [Tonjr12](https://github.com/Tonjr12) 🚀
+Desenvolvido com dedicação por [Tonjr12](https://github.com/Tonjr12) 🚀
